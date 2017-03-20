@@ -1,0 +1,6 @@
+localhost	ansible_connection=local
+myremote	ansible_port=22	ansible_host=tidycoder.cn
+
+[webservers]
+
+[dbservers]
